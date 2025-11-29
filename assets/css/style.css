@@ -36,3 +36,6 @@ margin: auto;
     color: #59ab6e;
     font-weight: bold;
  }
+ .bg-light{
+   background-color: #e9eef5 !important;
+ }
