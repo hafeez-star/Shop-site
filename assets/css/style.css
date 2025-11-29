@@ -21,5 +21,18 @@
     background-color: #efefef !important;
  }
  .py-8{
-    padding:50px ;
+    padding:80px;
+ }
+ .cata{
+width:500px;
+margin: auto;
+ }
+ .btn{
+   color: white;
+   height: 40px !important;
+    background-color: #59ab6e;
+ }
+ .btn:hover{
+    color: #59ab6e;
+    font-weight: bold;
  }
