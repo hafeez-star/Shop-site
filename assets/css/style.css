@@ -7,10 +7,19 @@
  .f-s-1{
     font-size: 12px;
  }
+ .f-s-0{
+    font-size: 70px;
+ }
 
  .text-gray{
     color: rgba(245, 244, 244, 0.808);
  }
  .text-greens{
     color: #59ab6e ;
+ }
+ #hero{
+    background-color: #efefef !important;
+ }
+ .py-8{
+    padding:50px ;
  }
