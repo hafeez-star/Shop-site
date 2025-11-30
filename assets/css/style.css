@@ -68,4 +68,10 @@ color: #59ab6e;
     background-color: #59ab6e;
  }
  /*About file start */
- 
+ .truk:hover{
+   background-color: #59ab6e;
+   color: white;
+ }
+ .truk:hover i{
+   color: white;
+ }
