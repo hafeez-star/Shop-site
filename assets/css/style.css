@@ -17,6 +17,9 @@
  .text-greens{
     color: #59ab6e ;
  }
+ .bg-gre{
+   background-color: #59ab6e;
+ }
  #hero{
     background-color: #efefef !important;
  }
@@ -64,3 +67,5 @@ color: #59ab6e;
    padding: 8px;
     background-color: #59ab6e;
  }
+ /*About file start */
+ 
